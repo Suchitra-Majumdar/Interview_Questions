@@ -1,5 +1,13 @@
 # Interview_Questions
-[a link] (https://github.com/user/repo/blob/branch/other_file.md)
+<!DOCTYPE html>
+## Code by Scratchy (Twitter @S_cratchy)
+<html>
+<body>
+
+<a href="https://www.Google.com" target="_blank">Gooooooooogle!</a> 
+
+</body>
+</html>
 ## 1. What are the assumptions of Linear Regression
 ## 2.  What is the relatonshi between Logistic regression and Linear Regression
 ## 3. Advantage of Decision Tree(Explainability)
