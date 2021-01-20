@@ -4,5 +4,5 @@
 ## 3. Advantage of Decision Tree(Explainability)
 ## 4. Difference between Random Forest and Decision tree
 ## 5. How random forest helps in reducing variance
-## 6. i f there are 100 people in one room, how many handshakes(100C2)
+## 6. if there are 100 people in one room, how many handshakes(100C2)
 
