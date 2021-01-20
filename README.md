@@ -12,7 +12,7 @@
 	
 </head>
 <body>
-	<a href="https://medium.com/analytics-vidhya/what-is-multicollinearity-and-how-to-remove-it-413c419de2f target="_blank">here</a>
+	<a href="https://medium.com/analytics-vidhya/what-is-multicollinearity-and-how-to-remove-it-413c419de2f" target=_blank">here</a>
 
 </body>
 </html>
