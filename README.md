@@ -5,7 +5,8 @@
 ## 4. Difference between Random Forest and Decision tree
 ## 5. How random forest helps in reducing variance
 ## 6. if there are 100 people in one room, how many handshakes(100C2)
-## 7.How can we remove multicollinearity<!DOCTYPE html>
+## 7.How can we remove multicollinearity <a href="https://www.google.com/" rel="noopener noreferrer" target="_blank">google.com</a>
+<!DOCTYPE html>
 <html>
 <head>
 	
