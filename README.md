@@ -8,6 +8,9 @@
 ## 7.How can we remove multicollinearity [Click here](https://medium.com/analytics-vidhya/what-is-multicollinearity-and-how-to-remove-it-413c419de2f)
 ## 8. What is covariance. ? WHat is the difference between correlation and covariance?
 ## 9. How can you remove multicollinearity? What is VIF?
+## 10. sklearn significance
+## 11. Numpy and pandas usage
+## 12. Bias variance trade off
 
 
 
