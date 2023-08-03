@@ -11,6 +11,7 @@
 ## 10. sklearn significance
 ## 11. Numpy and pandas usage
 ## 12. Bias variance trade off
+## 13 How are KNN and K-means clustering different?
 
 
 
